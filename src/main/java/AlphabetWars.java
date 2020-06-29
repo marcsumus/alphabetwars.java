@@ -6,11 +6,8 @@ public class AlphabetWars {
 
     // TODO:
     // - Add support for priests
-    // - checkPriest has too many conditionals
-    // - checkPriest shouldn't need to iterate through the entire battlefield
     // - Make fighter a class?
     // - Not checking if a fighter is protected by a priest
-
 
     public static String woLoLoooooo(String battlefield) {
 
